@@ -15,6 +15,10 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 * **[ZeParser](https://github.com/qfox/ZeParser)**
 * **[esprima](https://github.com/ariya/esprima)**
 
+### Ruby
+
+* **[opalscript](http://opalscript.org)**
+
 ## Other (markup, style, data)
 
 ### HTML
@@ -24,9 +28,11 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 ### CSS
 
-* **[CSSOM](https://github.com/NV/CSSOM)
+* **[CSSOM](https://github.com/NV/CSSOM)**
 
 ### JSON
+
+*See [json.org](http://json.org)*
 
 * **[JSON.js](https://github.com/douglascrockford/JSON-js)**
 * **[json-sans-eval](http://code.google.com/p/json-sans-eval/)**
