@@ -14,6 +14,9 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 * **[ZeParser](https://github.com/qfox/ZeParser)**
 * **[esprima](https://github.com/ariya/esprima)**
+* **[UglifyJS](https://github.com/mishoo/UglifyJS/)** (includes parser)
+* **[iv](https://github.com/Constellation/iv)** (ES 5.1)
+* **[narcissus](https://github.com/mozilla/narcissus/tree/master/lib)** (includes parser)
 
 ### Ruby
 
