@@ -28,6 +28,7 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 * **[htmlparser](https://github.com/tautologistics/node-htmlparser)**
 * **[dom.js](https://github.com/andreasgal/dom.js)** (HTML5)
+* **[HTML5 Parser](https://github.com/blowsie/Pure-JavaScript-HTML5-Parser)**
 
 ### CSS
 
