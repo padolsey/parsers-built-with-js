@@ -36,7 +36,7 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 ### CSS
 
 * **[CSSOM](https://github.com/NV/CSSOM)**
-* **[mensch](https://github.com/brettstimmerman/mensch** (non-validating, represents some comments)
+* **[mensch](https://github.com/brettstimmerman/mensch)** (non-validating, represents some comments)
 * **[rework](https://github.com/visionmedia/rework)** (includes parser, [runs many preprocessors](https://github.com/visionmedia/rework#built-with-rework))
 
 ### JSON
