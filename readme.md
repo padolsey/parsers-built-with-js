@@ -17,6 +17,8 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 * **[UglifyJS](https://github.com/mishoo/UglifyJS/)** (includes parser)
 * **[iv](https://github.com/Constellation/iv)** (ES 5.1)
 * **[narcissus](https://github.com/mozilla/narcissus/tree/master/lib)** (includes parser)
+* **[Rocambole](https://github.com/millermedeiros/rocambole)** (non-destructive AST manipulation)
+* **[Acorn.js](http://marijnhaverbeke.nl/acorn/)** (tiny, fast)
 
 ### Ruby
 
@@ -26,13 +28,17 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 ### HTML
 
-* **[htmlparser](https://github.com/tautologistics/node-htmlparser)**
+* **[htmlparser](https://github.com/tautologistics/node-htmlparser)** (HTML/XML/RSS)
+* **[htmlparser2](https://github.com/fb55/htmlparser2)** (node-htmlparser fork)
 * **[dom.js](https://github.com/andreasgal/dom.js)** (HTML5)
 * **[HTML5 Parser](https://github.com/blowsie/Pure-JavaScript-HTML5-Parser)**
+* **[parse5](https://github.com/inikulin/parse5)** (HTML5 spec)
 
 ### CSS
 
 * **[CSSOM](https://github.com/NV/CSSOM)**
+* **[mensch](https://github.com/brettstimmerman/mensch)** (non-validating, represents some comments)
+* **[rework](https://github.com/visionmedia/rework)** (includes parser, [runs many preprocessors](https://github.com/visionmedia/rework#built-with-rework))
 
 ### JSON
 
@@ -40,3 +46,8 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 
 * **[JSON.js](https://github.com/douglascrockford/JSON-js)**
 * **[json-sans-eval](http://code.google.com/p/json-sans-eval/)**
+
+### User agent
+
+* **[3rd-Eden/useragent](https://github.com/3rd-Eden/useragent)** (Browserscope port for Node)
+* **[tobie/ua-parser](https://github.com/tobie/ua-parser#usage--nodejs)** (Browserscope port for Node)
