@@ -18,6 +18,7 @@ Trying to build a list of parsers/interpreters/converters built in JavaScript.
 * **[iv](https://github.com/Constellation/iv)** (ES 5.1)
 * **[narcissus](https://github.com/mozilla/narcissus/tree/master/lib)** (includes parser)
 * **[Rocambole](https://github.com/millermedeiros/rocambole)** (non-destructive AST manipulation)
+* **[Acorn.js](http://marijnhaverbeke.nl/acorn/)** (tiny, fast)
 
 ### Ruby
 
